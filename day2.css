@@ -1,0 +1,17 @@
+h2{
+    color: aqua;
+}
+h3{
+    color: aqua;
+}
+body{
+    background-color: gray;
+}
+hr{
+    border-radius: 50px;
+}
+#tejas{
+    border-radius: 50px;
+    border-style: double;
+    cursor: auto;
+}
